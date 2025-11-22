@@ -1,1 +1,176 @@
-(function(_0x1cab00,_0x5d2d3e){const _0x3f8e47=_0x4f44,_0x85ff96=_0x1cab00();while(!![]){try{const _0x20dc4d=-parseInt(_0x3f8e47(0xcd))/0x1+-parseInt(_0x3f8e47(0xc0))/0x2*(-parseInt(_0x3f8e47(0xc7))/0x3)+-parseInt(_0x3f8e47(0xcf))/0x4+parseInt(_0x3f8e47(0xe6))/0x5+parseInt(_0x3f8e47(0xd8))/0x6+-parseInt(_0x3f8e47(0xc5))/0x7*(-parseInt(_0x3f8e47(0xce))/0x8)+parseInt(_0x3f8e47(0xd6))/0x9*(-parseInt(_0x3f8e47(0xc4))/0xa);if(_0x20dc4d===_0x5d2d3e)break;else _0x85ff96['push'](_0x85ff96['shift']());}catch(_0x452f02){_0x85ff96['push'](_0x85ff96['shift']());}}}(_0x1661,0x88e6e));function _0x4f44(_0x29aa98,_0x131df9){const _0x16613b=_0x1661();return _0x4f44=function(_0x4f4450,_0x274592){_0x4f4450=_0x4f4450-0xc0;let _0x335a1c=_0x16613b[_0x4f4450];return _0x335a1c;},_0x4f44(_0x29aa98,_0x131df9);}function _0x1661(){const _0x1ae714=['73048lEHgol','794012STwaiB','appendChild','welcomeCard','body','style','innerHTML','uzr','13491LJpyYv','.u-topic','2981382uMEYvV','.u-nick','nodeType','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:-120%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(90deg,\x20transparent,\x20rgba(255,255,255,0.8),\x20transparent);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20shine\x201.8s\x20infinite;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2019px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px\x2018px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(255,255,255,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20inline-block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x2010px\x20rgba(255,255,255,0.15);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x202px\x204px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>نورت/ي\x20المكان\x20🌟</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<!--\x20أنيميشن\x20الخلفية\x20واللمعة\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20shine\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20left:\x20-120%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20left:\x20220%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20floatDots\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20transform:\x20translate(0,0);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20translate(10px,-10px);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20','includes','ضيف','500px','زائر','50%','div','40px\x2030px','.u-msg','center','addedNodes','2660740FkEpDi','hidden','translate(-50%,\x20-50%)\x20scale(0.6)','#fff','createElement','trim','contains','.u-ico','classList','0\x200\x2035px\x20rgba(255,215,0,0.4)','9999','fixed','querySelector','forEach','transform','870988rlgjGH','textContent','blur(18px)','translate(-50%,\x20-50%)\x20scale(1)','4450vTOmPO','490FueCTc','20px','6LZhtjn','remove','opacity','390px','rgba(22,22,40,0.85)','assign','1112895xSnpsK'];_0x1661=function(){return _0x1ae714;};return _0x1661();}function waitForRoom(){const _0x4f806b=document['getElementById']('d2');if(!_0x4f806b){setTimeout(waitForRoom,0x190);return;}startWelcomeObserver(_0x4f806b);}waitForRoom();function startWelcomeObserver(_0x53deed){const _0x24474e=new MutationObserver(_0x4f4936=>{_0x4f4936['forEach'](_0x396c10=>{const _0x1723f2=_0x4f44;_0x396c10[_0x1723f2(0xe5)][_0x1723f2(0xf3)](_0x5c5b91=>{const _0x234f0d=_0x1723f2;if(_0x5c5b91[_0x234f0d(0xda)]!==0x1)return;if(!_0x5c5b91[_0x234f0d(0xee)][_0x234f0d(0xec)](_0x234f0d(0xd5)))return;const _0x23670b=_0x5c5b91[_0x234f0d(0xf2)](_0x234f0d(0xe3)),_0x418d94=_0x23670b?_0x23670b[_0x234f0d(0xc1)]:'';if(!_0x418d94[_0x234f0d(0xdc)]('انضم'))return;let _0x8bf0b5=_0x234f0d(0xdd);const _0x6507af=_0x5c5b91[_0x234f0d(0xf2)](_0x234f0d(0xd7)),_0x66252f=_0x5c5b91[_0x234f0d(0xf2)](_0x234f0d(0xd9)),_0x5e5821=_0x5c5b91[_0x234f0d(0xf2)](_0x234f0d(0xed));if(_0x6507af&&_0x6507af[_0x234f0d(0xc1)]['trim']())_0x8bf0b5=_0x6507af[_0x234f0d(0xc1)]['trim']();else{if(_0x66252f&&_0x66252f[_0x234f0d(0xc1)][_0x234f0d(0xeb)]())_0x8bf0b5=_0x66252f['textContent']['trim']();else{if(_0x5e5821&&_0x5e5821[_0x234f0d(0xc1)]['trim']())_0x8bf0b5=_0x5e5821[_0x234f0d(0xc1)]['trim']();}}if(_0x8bf0b5['includes'](_0x234f0d(0xdf)))return;showWelcomeCard(_0x8bf0b5);});});});_0x24474e['observe'](_0x53deed,{'childList':!![],'subtree':!![]});}function showWelcomeCard(_0x133926){const _0x248187=_0x4f44,_0x2030e8=document['getElementById'](_0x248187(0xd1));if(_0x2030e8)_0x2030e8[_0x248187(0xc8)]();let _0x4ca4db=document[_0x248187(0xea)](_0x248187(0xe1));_0x4ca4db['id']=_0x248187(0xd1),Object[_0x248187(0xcc)](_0x4ca4db[_0x248187(0xd3)],{'position':_0x248187(0xf1),'top':_0x248187(0xe0),'left':_0x248187(0xe0),'transform':_0x248187(0xe8),'minWidth':_0x248187(0xca),'maxWidth':_0x248187(0xde),'padding':_0x248187(0xe2),'background':_0x248187(0xcb),'color':_0x248187(0xe9),'borderRadius':_0x248187(0xc6),'textAlign':_0x248187(0xe4),'zIndex':_0x248187(0xf0),'opacity':'0','overflow':_0x248187(0xe7),'transition':'all\x200.8s\x20cubic-bezier(.17,.67,.38,1.35)','boxShadow':_0x248187(0xef),'backdropFilter':_0x248187(0xc2)}),_0x4ca4db[_0x248187(0xd4)]='\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<!--\x20الخلفية\x20النقاطيّة\x20الذهبية\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20inset:0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20radial-gradient(circle\x20at\x2010%\x2020%,\x20rgba(255,215,0,0.20)\x200%,\x20transparent\x2060%),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20radial-gradient(circle\x20at\x2080%\x2030%,\x20rgba(255,215,0,0.15)\x200%,\x20transparent\x2065%),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20radial-gradient(circle\x20at\x2050%\x2080%,\x20rgba(255,215,0,0.18)\x200%,\x20transparent\x2070%),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20repeating-radial-gradient(circle,\x20rgba(255,255,255,0.09)\x200\x202px,\x20transparent\x203px\x2014px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.25;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20floatDots\x207s\x20infinite\x20alternate\x20ease-in-out;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pointer-events:none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<!--\x20محتوى\x20البطاقة\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:relative;\x20z-index:10;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2050px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20filter:\x20drop-shadow(0\x204px\x208px\x20rgba(0,0,0,0.5));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>👑✨</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2024px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x202px\x204px\x20rgba(0,0,0,0.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>أهلاً\x20وسهلاً\x20بقدومك</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2036px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2015px\x200\x2020px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20800;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(90deg,\x20#FFD700\x200%,\x20#FFB300\x2050%,\x20#FFD700\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-webkit-background-clip:\x20text;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-webkit-text-fill-color:\x20transparent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x200\x2018px\x20rgba(255,210,0,0.5);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20inline-block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x133926+_0x248187(0xdb),document[_0x248187(0xd2)][_0x248187(0xd0)](_0x4ca4db),setTimeout(()=>{const _0x3e7748=_0x248187;_0x4ca4db[_0x3e7748(0xd3)][_0x3e7748(0xc9)]='1',_0x4ca4db[_0x3e7748(0xd3)]['transform']=_0x3e7748(0xc3);},0x32),setTimeout(()=>{const _0xbb2aa9=_0x248187;_0x4ca4db[_0xbb2aa9(0xd3)][_0xbb2aa9(0xc9)]='0',_0x4ca4db['style'][_0xbb2aa9(0xf4)]='translate(-50%,\x20-50%)\x20scale(0.8)',setTimeout(()=>_0x4ca4db[_0xbb2aa9(0xc8)](),0x384);},0xfa0);}
+// =======================================================
+// 👑 بطاقة ترحيب ملكيّة بنقاط ذهبية — نسخة PREMIUM Dots
+// =======================================================
+
+// ننتظر تحميل غرفة الشات
+function waitForRoom() {
+    const roomDiv = document.getElementById('d2');
+    if (!roomDiv) {
+        setTimeout(waitForRoom, 400);
+        return;
+    }
+    startWelcomeObserver(roomDiv);
+}
+
+waitForRoom();
+
+// مراقبة دخول الأعضاء
+function startWelcomeObserver(roomDiv) {
+    const observer = new MutationObserver(mutations => {
+        mutations.forEach(mutation => {
+            mutation.addedNodes.forEach(node => {
+                if (node.nodeType !== 1) return;
+                if (!node.classList.contains('uzr')) return;
+
+                const msgDiv = node.querySelector('.u-msg');
+                const msg = msgDiv ? msgDiv.textContent : "";
+                if (!msg.includes("انضم")) return;
+
+                let userName = "ضيف";
+
+                const topic = node.querySelector('.u-topic');
+                const nick = node.querySelector('.u-nick');
+                const title = node.querySelector('.u-ico');
+
+                if (topic && topic.textContent.trim()) userName = topic.textContent.trim();
+                else if (nick && nick.textContent.trim()) userName = nick.textContent.trim();
+                else if (title && title.textContent.trim()) userName = title.textContent.trim();
+
+                if (userName.includes("زائر")) return;
+
+                showWelcomeCard(userName);
+            });
+        });
+    });
+
+    observer.observe(roomDiv, { childList: true, subtree: true });
+}
+
+// =======================================================
+// 👑 البطاقة الملكيّة بخلفية نقطية ذهبية
+// =======================================================
+function showWelcomeCard(userName) {
+
+    const old = document.getElementById("welcomeCard");
+    if (old) old.remove();
+
+    let card = document.createElement("div");
+    card.id = "welcomeCard";
+
+    Object.assign(card.style, {
+        position: "fixed",
+        top: "50%",
+        left: "50%",
+        transform: "translate(-50%, -50%) scale(0.6)",
+        minWidth: "390px",
+        maxWidth: "500px",
+        padding: "40px 30px",
+        background: "rgba(22,22,40,0.85)",
+        color: "#fff",
+        borderRadius: "20px",
+        textAlign: "center",
+        zIndex: "9999",
+        opacity: "0",
+        overflow: "hidden",
+        transition: "all 0.8s cubic-bezier(.17,.67,.38,1.35)",
+        boxShadow: "0 0 35px rgba(255,215,0,0.4)",
+        backdropFilter: "blur(18px)"
+    });
+
+    // HTML للبطاقة
+    card.innerHTML = `
+
+        <!-- الخلفية النقاطيّة الذهبية -->
+        <div style="
+            position:absolute;
+            inset:0;
+            background:
+                radial-gradient(circle at 10% 20%, rgba(255,215,0,0.20) 0%, transparent 60%),
+                radial-gradient(circle at 80% 30%, rgba(255,215,0,0.15) 0%, transparent 65%),
+                radial-gradient(circle at 50% 80%, rgba(255,215,0,0.18) 0%, transparent 70%),
+                repeating-radial-gradient(circle, rgba(255,255,255,0.09) 0 2px, transparent 3px 14px);
+            opacity: 0.25;
+            animation: floatDots 7s infinite alternate ease-in-out;
+            pointer-events:none;
+        "></div>
+
+        <!-- محتوى البطاقة -->
+        <div style="position:relative; z-index:10;">
+        
+            <div style="
+                font-size: 50px;
+                margin-bottom: 15px;
+                filter: drop-shadow(0 4px 8px rgba(0,0,0,0.5));
+            ">👑✨</div>
+
+            <div style="
+                font-size: 24px;
+                opacity: 0.9;
+                margin-bottom: 10px;
+                text-shadow: 0 2px 4px rgba(0,0,0,0.4);
+            ">أهلاً وسهلاً بقدومك</div>
+
+            <div style="
+                font-size: 36px;
+                margin: 15px 0 20px 0;
+                font-weight: 800;
+                background: linear-gradient(90deg, #FFD700 0%, #FFB300 50%, #FFD700 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                text-shadow: 0 0 18px rgba(255,210,0,0.5);
+                position: relative;
+                display: inline-block;
+            ">
+                ${userName}
+                <span style="
+                    position:absolute;
+                    top:0;
+                    left:-120%;
+                    height:100%;
+                    width:100%;
+                    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.8), transparent);
+                    animation: shine 1.8s infinite;
+                "></span>
+            </div>
+
+            <div style="
+                font-size: 19px;
+                padding: 10px 18px;
+                background: rgba(255,255,255,0.1);
+                border-radius: 14px;
+                display: inline-block;
+                box-shadow: 0 0 10px rgba(255,255,255,0.15);
+                text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            ">☀نــــورر المكان ☀</div>
+
+        </div>
+
+        <!-- أنيميشن الخلفية واللمعة -->
+        <style>
+            @keyframes shine {
+                0% { left: -120%; }
+                100% { left: 220%; }
+            }
+
+            @keyframes floatDots {
+                0% { transform: translate(0,0); }
+                100% { transform: translate(10px,-10px); }
+            }
+        </style>
+    `;
+
+    document.body.appendChild(card);
+
+    // الظهور الفخم
+    setTimeout(() => {
+        card.style.opacity = "1";
+        card.style.transform = "translate(-50%, -50%) scale(1)";
+    }, 50);
+
+    // الاختفاء الملكي
+    setTimeout(() => {
+        card.style.opacity = "0";
+        card.style.transform = "translate(-50%, -50%) scale(0.8)";
+        setTimeout(() => card.remove(), 900);
+    }, 4000);
+}
